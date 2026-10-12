@@ -1,0 +1,6 @@
+{
+  "appId": "com.chocadeirafacil.app",
+  "appName": "Chocadeira Fácil",
+  "webDir": "dist",
+  "android": { "allowMixedContent": false }
+}
